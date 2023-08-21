@@ -1,0 +1,132 @@
+{
+  "_createdAt": "2023-08-18T09:46:16Z",
+  "_id": "09558b3f-253c-4da6-b2e4-337b1eb02655",
+  "_rev": "76ewoxhAm9hNbPwR63fOT0",
+  "_type": "post",
+  "_updatedAt": "2023-08-20T19:19:50Z",
+  "author": {
+    "_ref": "2a5053e9-e983-4982-b85a-19d0a1db06e3",
+    "_type": "reference"
+  },
+  "body": [
+    {
+      "_key": "0986bef886e2",
+      "_type": "block",
+      "children": [
+        {
+          "_key": "45fcd5731ff30",
+          "_type": "span",
+          "marks": [],
+          "text": "It is a "
+        },
+        {
+          "_key": "ed216ed36203",
+          "_type": "span",
+          "marks": ["116ebe18846f"],
+          "text": "well-established"
+        },
+        {
+          "_key": "71123b3d225b",
+          "_type": "span",
+          "marks": [],
+          "text": " fact that a reader will be distracted by the readable content of a page when looking at its layout. T"
+        }
+      ],
+      "markDefs": [
+        {
+          "_key": "116ebe18846f",
+          "_type": "link"
+        }
+      ],
+      "style": "normal"
+    },
+    {
+      "_key": "26a8af4917cc",
+      "_type": "block",
+      "children": [
+        {
+          "_key": "2ea52e5ac419",
+          "_type": "span",
+          "marks": [],
+          "text": ""
+        }
+      ],
+      "markDefs": [],
+      "style": "normal"
+    },
+    {
+      "_key": "78fb2f5067d9",
+      "_type": "block",
+      "children": [
+        {
+          "_key": "fbf162c35b06",
+          "_type": "span",
+          "marks": [],
+          "text": "on purpose (injected humour and the like).\nWhere does it come from?\nContrary to popular belief, Lorem Ipsum is not simply random text. It has roots in a piece of classical Latin literature from 45 BC, making it over 2000 years old. Richard McClintock, a Latin professor at Hampden-Sydney College in Virginia, looked up one of the more obscure Latin words, consectetur, from a Lorem Ipsum passage, and going through the cites of the word in classical literature, discovered the undoubtable source. Lorem Ipsum comes from sections 1.10.32 and 1.10.33 of \"de Finibus Bonorum et Malorum\" (The Extremes of Good and Evil) by Cicero, written in 45 BC. This book is a treatise on the theory of ethics, very popular during the Renaissance. The first line of Lorem Ipsum, \"Lorem ipsum dolor sit amet..\", comes from a line in section 1.10.32.\n\nThe standard chunk of Lorem Ipsum used since the 1500s is reproduced below for those interested. Sections 1.10.32 and 1.10.33 from \"de Finibus Bonorum et Malorum\" by Cicero are also reproduced in their exact original form, accompanied by English versions from the 1914 translation by H. Rackham.\n"
+        }
+      ],
+      "markDefs": [],
+      "style": "normal"
+    },
+    {
+      "_key": "63fe5a2ae58c",
+      "_type": "code",
+      "code": "It is a well-established fact that a reader will be distracted by the readable content of a page when looking at its layout. T",
+      "language": "html"
+    },
+    {
+      "_key": "0ad8a6f1387b",
+      "_type": "image",
+      "asset": {
+        "_ref": "image-3fc853dcde14b5726384446b36131b2cdd01d8ac-564x525-jpg",
+        "_type": "reference"
+      }
+    },
+    {
+      "_key": "0920e2754a37",
+      "_type": "block",
+      "children": [
+        {
+          "_key": "e6cd2e69dca7",
+          "_type": "span",
+          "marks": [],
+          "text": "\nWhere can I get some?\nThere are many variations of passages of Lorem Ipsum available, but the majority have suffered alteration in some form, whether by injected humor, or randomized words that don't look even slightly believable. If you are going to use a passage from Lorem Ipsum, you need to be sure there isn't anything embarrassing hidden in the middle of the text. All the Lorem Ipsum generators on the Internet tend to repeat predefined chunks as necessary, making this the first true generator on the Internet. It uses a dictionary of over 200 Latin words, combined with a handful of model sentence structures, to generate Lorem Ipsum which looks reasonable. The generated Lorem Ipsum is therefore always free from repetition, injected humour, or non-characteristic words, etc."
+        }
+      ],
+      "markDefs": [],
+      "style": "normal"
+    },
+    {
+      "_key": "e57c473c0539",
+      "_type": "block",
+      "children": [
+        {
+          "_key": "9e8ee4de5348",
+          "_type": "span",
+          "marks": [],
+          "text": ""
+        }
+      ],
+      "markDefs": [],
+      "style": "normal"
+    },
+    {
+      "_key": "e676a2c607fe",
+      "_type": "code",
+      "code": "on purpose (injected humour and the like).\nWhere does it come from?\nContrary to popular belief, Lorem Ipsum is not simply random text. It has roots in a piece of classical Latin literature from 45 BC, making it over 2000 years old. Richard McClintock, a Latin professor at Hampden-Sydney College in Virginia, looked up one of the more obscure Latin words, consectetur, from a Lorem Ipsum passage, and going through the cites of the word in classical literature, discovered the undoubtable source. Lorem Ipsum comes from sections 1.10.32 and 1.10.33 of \"de Finibus Bonorum et Malorum\" (The Extremes of Good and Evil) by Cicero, written in 45 BC. This book is a treatise on the theory of ethics, very popular during the Renaissance. The first line of Lorem Ipsum, \"Lorem ipsum dolor sit amet..\", comes from a line in section 1.10.32.\n\nThe standard chunk of Lorem Ipsum used since the 1500s is reproduced below for those interested. Sections 1.10.32 and 1.10.33 from \"de Finibus Bonorum et Malorum\" by Cicero are also reproduced in their exact original form, accompanied by English versions from the 1914 translation by H. Rackham."
+    }
+  ],
+  "mainImage": {
+    "_type": "image",
+    "asset": {
+      "_ref": "image-4d006d5796b7e84c3329dfd7c3ac2469ce6844b6-1280x720-jpg",
+      "_type": "reference"
+    }
+  },
+  "publishedAt": "2023-08-17T21:45:39.903Z",
+  "slug": {
+    "_type": "slug",
+    "current": "new-update"
+  },
+  "title": "New Update"
+}

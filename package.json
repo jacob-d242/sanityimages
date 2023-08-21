@@ -1,0 +1,33 @@
+{
+  "name": "how-to-render-portable-text-in-react",
+  "version": "1.0.0",
+  "description": "Introduction to Portable Text Part 2. https://www.youtube.com/watch?v=fKXGTJ0NA5c&feature=youtu.be",
+  "keywords": [],
+  "main": "src/index.js",
+  "dependencies": {
+    "@portabletext/react": "3.0.4",
+    "@sanity/block-content-to-react": "2.0.6",
+    "@sanity/image-url": "0.140.12",
+    "date-fns": "2.30.0",
+    "react": "16.8.6",
+    "react-dom": "16.8.6",
+    "react-router-dom": "6.15.0",
+    "react-scripts": "2.1.8",
+    "react-syntax-highlighter": "15.5.0"
+  },
+  "devDependencies": {
+    "typescript": "3.3.3"
+  },
+  "scripts": {
+    "start": "react-scripts start",
+    "build": "react-scripts build",
+    "test": "react-scripts test --env=jsdom",
+    "eject": "react-scripts eject"
+  },
+  "browserslist": [
+    ">0.2%",
+    "not dead",
+    "not ie <= 11",
+    "not op_mini all"
+  ]
+}
